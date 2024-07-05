@@ -39,3 +39,6 @@ To get a copy of this project up and running on your local machine, follow these
 
 I would like to express my heartfelt gratitude to Tuco Bear for his unwavering support and companionship throughout the development of this project. Tuco Bear's presence has been a constant source of inspiration, providing encouragement and joy during the challenging moments. His keen insights and playful spirit have infused this project with positivity and creativity. Thank you, Tuco Bear, for being my loyal companion and for brightening each day with your presence.
 
+
+You can view the interactive visualization [here](https://public.flourish.studio/visualisation/18634486).
+
