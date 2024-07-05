@@ -113,5 +113,5 @@ dfs_to_concat = [df_2016_pivot, df_2017_pivot, df_2018_pivot, df_2019_pivot, df_
 df_concatenated = pd.concat(dfs_to_concat, axis=1)
 
 
-
+# Output file to be visualised in Flourish
 df_concatenated.to_csv('flourish_tuco.csv')
