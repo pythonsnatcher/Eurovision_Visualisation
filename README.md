@@ -2,6 +2,8 @@
 
 Welcome to the Eurovision Song Contest Points Visualization project! This repository visualizes the points awarded to contestants in the Eurovision Song Contest over various years using a bar chart race. The data has been cleaned and visualized using Flourish.
 
+Explore the dynamic Eurovision Song Contest Points Visualization on Flourish:
+- View the interactive visualization [here](https://public.flourish.studio/visualisation/18634486).
 
 ## Project Overview
 The Eurovision Song Contest is an annual international song competition, held primarily among the member countries of the European Broadcasting Union. Since its inception in 1956, the contest has grown into one of the longest-running and most-watched non-sporting events in the world. Each participating country submits an original song to be performed on live television and radio, then casts votes for the other countries' songs to determine the most popular song in the competition.
@@ -40,5 +42,4 @@ To get a copy of this project up and running on your local machine, follow these
 I would like to express my heartfelt gratitude to Tuco Bear for his unwavering support and companionship throughout the development of this project. Tuco Bear's presence has been a constant source of inspiration, providing encouragement and joy during the challenging moments. His keen insights and playful spirit have infused this project with positivity and creativity. Thank you, Tuco Bear, for being my loyal companion and for brightening each day with your presence.
 
 
-You can view the interactive visualization [here](https://public.flourish.studio/visualisation/18634486).
 
